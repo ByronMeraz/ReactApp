@@ -13,6 +13,9 @@ function App() {
         <p>
           Testing git
         </p>
+        <p>
+          Testing git 2
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
